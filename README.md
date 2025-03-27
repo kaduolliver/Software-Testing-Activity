@@ -3,7 +3,7 @@
 Este projeto visa a criação de um sistema, organizado em etapas interdependentes que incluem análise de usuário e metodologia Scrum, criação de interface de usuário (UI), desenvolvimento da lógica do sistema, integração de APIs e implementação de banco de dados. A aplicação de testes de software em cada fase será fundamental para garantir a confiabilidade, usabilidade e desempenho da solução final.
 
 -------- EXPECTATIVA DE COMO O PROJETO DEVE FICAR --------
-
+```
 med-exams/
 ├── frontend/
 │   ├── css/
@@ -28,20 +28,21 @@ med-exams/
 │   └── server.js
 └── database/
     └── init.sql
+```
 
 Conhecimentos necessários:
 
-Front-end:
-  -Html
-  -Css
-  -JavaScript
-Back-end:
-  -JavaScript
-  -Node.js
-  -Express.js
-  -API Rest
-Banco de dados:
-  -PostgreSQL
+1. Front-end:
+  - Html
+  - Css
+  - JavaScript
+2. Back-end:
+  - JavaScript
+  - Node.js
+  - Express.js
+  - API Rest
+3. Banco de dados:
+  - PostgreSQL
 
 
 Coisas relacionais:
